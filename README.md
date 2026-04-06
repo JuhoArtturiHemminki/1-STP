@@ -1,8 +1,7 @@
 # 1-STP: Structural Terminal Preserver & Non-Dissipative Cathodic Shield
 
 **Author:** Juho Artturi Hemminki  
-**Date:** April 6, 2026  
-**Version:** 1.0.0-STASIS  
+**Date:** April 6, 2026    
 **Classification:** Universal Wave-Ontology / Electrochemical Potential Transduction  
 **License:** Apache License, Version 2.0 (Global Prior Art)
 
