@@ -1,0 +1,17 @@
+[package]
+name = "stp_1"
+version = "0.1.0"
+edition = "2021"
+authors = ["Juho Artturi Hemminki"]
+
+[profile.release]
+panic = "abort"
+lto = true
+opt-level = "z"
+
+[dependencies]
+
+[[bin]]
+name = "1-stp"
+path = "src/main.rs"
+
